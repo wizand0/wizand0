@@ -1,5 +1,4 @@
-
-▎👨‍💻 Junior Android Developer (Kotlin)
+## 👨‍💻 Junior Android Developer (Kotlin)
 
 ▎About Me (Обо мне)
 
