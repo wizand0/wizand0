@@ -59,9 +59,8 @@ Here are some of the projects I've worked on to enhance my skills:
 ---
 
 ▎🌐 Connect with Me (Свяжитесь со мной)
-
 <p align='center'>
-   <a href="[https://www.linkedin.com/in/wizand0/](https://www.linkedin.com/in/wizand0/)">
+   <a href="https://www.linkedin.com/in/wizand0/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://t.me/mas2124">
