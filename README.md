@@ -1,60 +1,89 @@
-# Hi, I'm Andrey 👋
-Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+Вот пример текста резюме на английском и русском языках с использованием синтаксиса Markdown для вашего профиля на GitHub:
 
+---
 
+▎👨‍💻 Junior Android Developer (Kotlin)
+
+▎About Me (Обо мне)
+
+English:  
+Hi there! 👋 I'm a Junior Android Developer passionate about building mobile applications using Kotlin. Although I don't have commercial experience yet, I actively develop personal projects to improve my skills and showcase my work on GitHub. I’m a quick learner, motivated by challenges, and always eager to grow as a developer.  
+I have a passion for traveling 🌍, as I love exploring new places and experiencing different cultures. Riding motorcycles 🏍 is another one of my great loves; it gives me a sense of freedom and adventure.
+
+---
+
+Русский:  
+Привет! 👋 Я начинающий Android-разработчик, увлеченный созданием мобильных приложений с использованием Kotlin. У меня пока нет коммерческого опыта, но я активно работаю над собственными проектами, чтобы развивать свои навыки и демонстрировать их на GitHub. Я быстро обучаюсь, люблю решать сложные задачи и стремлюсь расти как разработчик.  
+Я увлекаюсь путешествиями 🌍, так как люблю исследовать новые места и знакомиться с разными культурами. Еще одна моя страсть — это мотоциклы 🏍, которые дают мне ощущение свободы и приключений.
+
+---
+
+▎🛠️ Skills Technologies (Навыки и технологии)
+
+• Languages (Языки): Kotlin, Java  
+
+• Development Tools (Инструменты разработки): Android Studio, Firebase  
+
+• Architectures (Архитектуры): MVVM  
+
+• Libraries  APIs (Библиотеки и API): Retrofit, Room Database, SQLite, Glide, SQLCipher, Jetpack Security  
+
+• Other (Прочее): SharedPreferences, BiometricPrompt, Kotlin Coroutines, ViewModel  LiveData  
+
+---
+
+▎📂 My Projects (Мои проекты)
+
+Here are some of the projects I've worked on to enhance my skills:  
+Вот несколько проектов, над которыми я работал для улучшения своих навыков:
+
+• 🔑 Password Manager: NewPasswordManager (https://github.com/wizand0/NewPasswordManager)  
+  A secure password manager app with biometric authentication and encryption.  
+
+• ✅ Task Tracker: SimpleTaskTracker (https://github.com/wizand0/SimpleTaskTracker)  
+  A simple task management app to track daily tasks and goals.  
+
+• 💬 Messenger App: WizMessenger (https://github.com/wizand0/WizMessenger)  
+  A basic messaging app for learning chat functionalities.  
+
+• 🎥 Movies App: MoviesApp (https://github.com/wizand0/MoviesApp)  
+  An educational app for exploring popular movies and their details.  
+
+---
+
+▎📊 GitHub Stats (Статистика GitHub)
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=wizand0&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=wizand0&show_icons=true&count_private=true"/></a>
+   <a href="https://github-readme-stats.vercel.app/api?username=wizand0showicons=truecountprivate=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=wizand0showicons=truecountprivate=true"/></a>
    <a href="https://github.com/wizand0/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizand0&layout=compact"/></a>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizand0layout=compact"/></a>
 </p>
 
+---
+
+▎🌐 Connect with Me (Свяжитесь со мной)
+
 <p align='center'>
-   <a href="[https://www.linkedin.com/in/romankh3/](https://www.linkedin.com/in/wizand0/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BYySuV3LaTdKYrt05PPliVg%3D%3D)">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   <a href="https://www.linkedin.com/in/wizand0/?lipi=urn%3Ali%3Apage%3Adflagship3feed%3BYySuV3LaTdKYrt05PPliVg%3D%3D">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badgelogo=linkedinlogoColor=white"/>
    </a>
    <a href="https://t.me/mas2124">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badgelogo=telegramlogoColor=white"/>
    </a>
+</p>
+
 <p align='center'>
    📫 How to reach me: <a href='mailto:makandrey@gmail.com'>makandrey@gmail.com</a>
 </p>
 
+---
 
-### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+▎🖥️ My Website (Мой сайт)
 
-## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
+Visit my personal website for more information: wizand.ru (https://wizand.ru/)  
+Посетите мой личный сайт для получения дополнительной информации: wizand.ru (https://wizand.ru/)
 
-### My opensource projects
+---
 
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
-
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/wizand0/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=wizand0&color=DE002D">
-   </a>
-</div>
-
-
-
-Hello! My name is Andrey Makarov 😊. I am an aspiring Android developer 📱, excited to dive into the world of app creation! I have a passion for traveling 🌍, as I love exploring new places and experiencing different cultures. Riding motorcycles 🏍️ is another one of my great loves; it gives me a sense of freedom and adventure.
-- 📫 How to reach me: makandrei@gmail.com; https://t.me/mas2124
-
-<!---
-wizand0/wizand0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to copy this template and adjust it to your needs! 😊
