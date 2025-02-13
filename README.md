@@ -50,12 +50,16 @@ Here are some of the projects I've worked on to enhance my skills:
 
 ▎📊 GitHub Stats (Статистика GitHub)
 
-
+<p align='center'>
  <a href="https://github-readme-stats.vercel.app/api?username=wizand0&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=wizand0&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/wizand0/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizand0&layout=compact"/></a>
 </p>
+
+---
+
+▎🌐 Connect with Me (Свяжитесь со мной)
 
 <p align='center'>
    <a href="[https://www.linkedin.com/in/romankh3/](https://www.linkedin.com/in/wizand0/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BYySuV3LaTdKYrt05PPliVg%3D%3D)">
@@ -64,23 +68,6 @@ Here are some of the projects I've worked on to enhance my skills:
    <a href="https://t.me/mas2124">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:makandrey@gmail.com'>makandrey@gmail.com</a>
-</p>
-
----
-
-▎🌐 Connect with Me (Свяжитесь со мной)
-
-<p align='center'>
-   <a href="https://www.linkedin.com/in/wizand0/?lipi=urn%3Ali%3Apage%3Adflagship3feed%3BYySuV3LaTdKYrt05PPliVg%3D%3D">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badgelogo=linkedinlogoColor=white"/>
-   </a>
-   <a href="https://t.me/mas2124">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badgelogo=telegramlogoColor=white"/>
-   </a>
-</p>
-
 <p align='center'>
    📫 How to reach me: <a href='mailto:makandrey@gmail.com'>makandrey@gmail.com</a>
 </p>
