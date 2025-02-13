@@ -61,7 +61,7 @@ Here are some of the projects I've worked on to enhance my skills:
 ▎🌐 Connect with Me (Свяжитесь со мной)
 
 <p align='center'>
-   <a href="[https://www.linkedin.com/in/romankh3/](https://www.linkedin.com/in/wizand0/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BYySuV3LaTdKYrt05PPliVg%3D%3D)">
+   <a href="[https://www.linkedin.com/in/wizand0/](https://www.linkedin.com/in/wizand0/)">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://t.me/mas2124">
@@ -78,6 +78,3 @@ Here are some of the projects I've worked on to enhance my skills:
 Visit my personal website for more information: wizand.ru (https://wizand.ru/)  
 Посетите мой личный сайт для получения дополнительной информации: wizand.ru (https://wizand.ru/)
 
----
-
-Feel free to copy this template and adjust it to your needs! 😊
