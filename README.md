@@ -16,7 +16,7 @@ I have a passion for traveling 🌍, as I love exploring new places and experien
 
 ▎🛠️ Skills Technologies (Навыки и технологии)
 
-• Languages (Языки): Kotlin, Java  
+• Languages (Языки): Kotlin
 
 • Development Tools (Инструменты разработки): Android Studio, Firebase  
 
