@@ -66,9 +66,11 @@ Here are some of the projects I've worked on to enhance my skills:
    <a href="https://t.me/mas2124">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
+  </p>
 <p align='center'>
    📫 How to reach me: <a href='mailto:makandrey@gmail.com'>makandrey@gmail.com</a>
 </p>
+
 ![Static Badge](https://img.shields.io/badge/How%20_to_reach_me-makadrei%40gmail.com-8A2BE2?style=for-the-badge)
 
 <a href="mailto:makandrei@gmail.com">
