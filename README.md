@@ -49,9 +49,7 @@ Here are some of the projects I've worked on to enhance my skills:
 
 ▎📊 GitHub Stats (Статистика GitHub)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizand0&theme=transparent&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizand0)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizand0&theme=transparent&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizand0&hide=javascript,html)
 
 
 
