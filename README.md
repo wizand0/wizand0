@@ -75,10 +75,6 @@ Here are some of the projects I've worked on to enhance my skills:
  </a>
    </p>
 
-<p align='center'>
-   📫 How to reach me: <a href='mailto:makandrey@gmail.com'>makandrey@gmail.com</a>
-</p>
-
 
 ---
 
