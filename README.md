@@ -69,6 +69,16 @@ Here are some of the projects I've worked on to enhance my skills:
 <p align='center'>
    📫 How to reach me: <a href='mailto:makandrey@gmail.com'>makandrey@gmail.com</a>
 </p>
+![Static Badge](https://img.shields.io/badge/How%20_to_reach_me-makadrei%40gmail.com-8A2BE2?style=for-the-badge)
+
+<a href="mailto:makandrei@gmail.com">
+    <img src="[your image path](https://img.shields.io/badge/How%20_to_reach_me-makadrei%40gmail.com-8A2BE2?style=for-the-badge)">
+ </a>
+
+<p align='center'>
+   📫 How to reach me: <a href='mailto:makandrey@gmail.com'>makandrey@gmail.com</a>
+</p>
+
 
 ---
 
