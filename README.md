@@ -48,8 +48,10 @@ Here are some of the projects I've worked on to enhance my skills:
 ---
 
 ▎📊 GitHub Stats (Статистика GitHub)
-
+<p align='center'>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizand0&theme=transparent&show_icons=true)
+
+</p>
 
 <p align='center'>
  <a href="https://github-readme-stats.vercel.app/api?username=wizand0&show_icons=true&count_private=true">
