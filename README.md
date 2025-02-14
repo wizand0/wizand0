@@ -50,7 +50,7 @@ Here are some of the projects I've worked on to enhance my skills:
 ▎📊 GitHub Stats (Статистика GitHub)
 
 <p align='center'>
- <a href="https://github-readme-stats.vercel.app/aapi?username=wizand0&theme=transparent&show_icons=true">
+ <a href="https://github.com/wizand0/">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=wizand0&theme=transparent&show_icons=true"/></a>
    <a href="https://github.com/wizand0/">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizand0&layout=compact&hide=css,scss"/></a>
