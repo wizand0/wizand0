@@ -60,6 +60,9 @@ Here are some of the projects I've worked on to enhance my skills:
 
 ▎🌐 Connect with Me (Свяжитесь со мной)
 <p align='center'>
+  <a href="mailto:makandrei@gmail.com">
+    <img src="https://img.shields.io/badge/How%20_to_reach_me-makadrei%40gmail.com-8A2BE2?style=for-the-badge">
+ </a>
    <a href="https://www.linkedin.com/in/wizand0/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
@@ -67,9 +70,7 @@ Here are some of the projects I've worked on to enhance my skills:
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 
-<a href="mailto:makandrei@gmail.com">
-    <img src="https://img.shields.io/badge/How%20_to_reach_me-makadrei%40gmail.com-8A2BE2?style=for-the-badge">
- </a>
+
    </p>
 
 
