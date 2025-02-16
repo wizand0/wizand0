@@ -24,7 +24,7 @@ I have a passion for traveling 🌍, as I love exploring new places and experien
 
 • Libraries  APIs (Библиотеки и API): Retrofit, Room Database, SQLite, Glide, SQLCipher, Jetpack Security  
 
-• Other (Прочее): SharedPreferences, BiometricPrompt, Kotlin Coroutines, ViewModel  LiveData  
+• Other (Прочее): SharedPreferences, BiometricPrompt, Kotlin Coroutines, ViewModel  LiveData, git flow  
 
 ---
 
