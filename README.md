@@ -45,6 +45,8 @@ Here are some of the projects I've worked on to enhance my skills:
 • 🎥 Movies App: MoviesApp (https://github.com/wizand0/MoviesApp)  
   An educational app for exploring popular movies and their details.  
 
+  My apps in Rustore: ([Rustore](https://www.rustore.ru/catalog/developer/3imqip))
+
 ---
 
 ▎📊 GitHub Stats (Статистика GitHub)
