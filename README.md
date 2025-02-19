@@ -34,6 +34,7 @@ Here are some of the projects I've worked on to enhance my skills:
 Вот несколько проектов, над которыми я работал для улучшения своих навыков:
 
 ✅ Service SenderNT: SenderNT (https://github.com/wizand0/SenderNT)
+
 The application forwards all notifications from your phone to Telegram via a bot .
 
 • 🔑 Password Manager: NewPasswordManager (https://github.com/wizand0/NewPasswordManager)  
