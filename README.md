@@ -33,7 +33,7 @@ I have a passion for traveling 🌍, as I love exploring new places and experien
 Here are some of the projects I've worked on to enhance my skills:  
 Вот несколько проектов, над которыми я работал для улучшения своих навыков:
 
-• 👥 Service SenderNT: SafeOrbit is a Kotlin-based Android application that allows two smartphones 
+• 👥 SafeOrbit: SafeOrbit is a Kotlin-based Android application that allows two smartphones 
   to securely connect and interact in real time using Firebase as the backend. The app is designed 
   for private tracking and remote monitoring between trusted users — one device acts as a Server and the 
   other as a Client.  
